@@ -18,3 +18,12 @@ function up3 {
 function up4 {
     cd ..\..\..\..;
 }
+function up5 {
+    cd ..\..\..\..\..;
+}
+function up6 {
+    cd ..\..\..\..\..\..;
+}
+function up7 {
+    cd ..\..\..\..\..\..\..;
+}
